@@ -16,7 +16,7 @@ Goldman Sachs: Excel Skills for Business Job Simulation on Forage - October 2024
 
 📊 **Task 2** <br>
 
-♦ How to explore and clean a data set and address missing values, duplicate values, errors in the data, and trends and patterns.
+♦ How to explore and clean a data set and address missing values, duplicate values, errors in the data, and trends and patterns.<br>
 ♦ How to use conditional formatting.<br>
 
 📊 **Task 3** <br>
@@ -30,6 +30,6 @@ Goldman Sachs: Excel Skills for Business Job Simulation on Forage - October 2024
 
 📊 **Task 5** <br>
 
-♦ How to create charts and dashboards in Excel. <br>
+♦ How to tell a data-driven narrative to build trust, convey meaningful insight, and drive audience engagement. <br>
 
 
