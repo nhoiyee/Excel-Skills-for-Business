@@ -9,7 +9,6 @@ Goldman Sachs: Excel Skills for Business Job Simulation on Forage - October 2024
    integrated with buttons using account sales data.
  * Gained expertise in data visualization and storytelling using Excel by creating impactful charts and interactive dashboards.
 <br>
-
 https://medium.com/@nhoiyee/goldman-sachs-excel-skills-for-business-job-simulation-on-forage-eda6ea428b2d
 <br>
 
