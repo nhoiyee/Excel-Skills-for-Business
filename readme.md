@@ -11,7 +11,7 @@ Goldman Sachs: Excel Skills for Business Job Simulation on Forage - October 2024
 <br>
 https://medium.com/@nhoiyee/goldman-sachs-excel-skills-for-business-job-simulation-on-forage-eda6ea428b2d <br>
 
-
+<br>
 
 📊 **Task 1** <br>
 
